@@ -1,0 +1,304 @@
+{
+    "pupuk": [
+        {
+            "id": 1,
+            "nama": "Pupuk Kandang",
+            "komponen": [
+                {
+                    "nama": "Kotoran Hewan",
+                    "deskripsi": "Kotoran hewan adalah bahan utama dalam pupuk kandang. Kotoran sapi, kotoran kuda, kotoran ayam, atau kotoran hewan lainnya dapat digunakan. Kotoran ini mengandung banyak nitrogen dan elemen jejak lainnya yang diperlukan tanaman."
+                },
+                {
+                    "nama": "Serbuk Gergaji",
+                    "deskripsi": "Serbuk gergaji dapat ditambahkan untuk meningkatkan struktur dan sirkulasi udara dalam pupuk. Ini membantu mencegah pembusukan yang terlalu padat dan meningkatkan kualitas pupuk"
+                },
+                {
+                    "nama": "Jerami atau gulma kering",
+                    "deskripsi": "Bahan seperti jerami atau gulma kering dapat digunakan untuk menyerap kelembaban dan meningkatkan ventilasi dalam pupuk kandang"
+                },
+                {
+                    "nama": "Sisa tanaman",
+                    "deskripsi": "Daun-daun gugur, ranting-ranting, atau bagian tumbuhan lain yang telah dipotong dapat ditambahkan ke dalam campuran pupuk kandang."
+                },
+                {
+                    "nama": "Abu kayu",
+                    "deskripsi": ": Abu kayu mengandung potasium dan beberapa mineral lain yang bermanfaat bagi tanaman. Tambahkan dalam jumlah yang sedikit untuk memperkaya pupuk"
+                },
+                {
+                    "nama": "Limbah dapur",
+                    "deskripsi": "Sisa-sisa sayuran atau buah-buahan dari dapur juga bisa digunakan untuk menambahkan nutrisi organik ke dalam pupuk."
+                },
+                {
+                    "nama": "Bakteri Pengurai",
+                    "deskripsi": "Beberapa formulasi pupuk kandang mengandung bakteri-bakteri pengurai organik untuk membantu mempercepat dekomposisi bahan-bahan organik."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nama": "Pupuk Hijau",
+            "komponen": [
+                {
+                    "nama": "Benih",
+                    "deskripsi": "Benih dari tanaman pupuk hijau yang terpilih"
+                },
+                {
+                    "nama": "tanah",
+                    "deskripsi": "Tanah yang subur dan sesuai untuk pertumbuhan tanaman"
+                },
+                {
+                    "nama": "pupuk tambahan",
+                    "deskripsi": "Pupuk tambahan seperti pupuk organik atau kompos untuk memberikan nutrisi tambahan kepada tanaman."
+                },
+                {
+                    "nama": "alat pertanian",
+                    "deskripsi": "Alat pertanian seperti penggali, cangkul, atau traktor kecil untuk menyiapkan tanah dan menanam benih."
+                },
+                {
+                    "nama": "air",
+                    "deskripsi": "Air untuk menyiram tanaman, terutama pada awal pertumbuhannya."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "nama": "Pupuk Hayati",
+            "komponen": [
+                {
+                    "nama": "Rhizobium",
+                    "deskripsi": "Bakteri yang membantu dalam fiksasi nitrogen dalam hubungannya dengan akar legum."
+                },
+                {
+                    "nama": "Azotobacter",
+                    "deskripsi": "Bakteri yang memfiksasi nitrogen bebas dari udara."
+                },
+                {
+                    "nama": "azospirillum",
+                    "deskripsi": "Bakteri yang meningkatkan ketersediaan nitrogen dari bahan organik dalam tanah.."
+                },
+                {
+                    "nama": "mikoriza",
+                    "deskripsi": "Fungi simbiotik yang membantu penyerapan unsur hara oleh akar tanaman."
+                },
+                {
+                    "nama": "Substrat",
+                    "deskripsi": "Substrat atau media tempat mikroorganisme hidup dapat tumbuh dan berkembang. Substrat ini sering kali berupa bahan organik seperti dedak atau molase.."
+                },
+                {
+                    "nama": "nutrisi",
+                    "deskripsi": "Nutrisi tambahan seperti karbohidrat sederhana (misalnya molase) atau bahan organik lainnya yang digunakan untuk memberi makan mikroorganisme."
+                },
+                {
+                    "nama": "air",
+                    "deskripsi": "Air bersih atau air yang telah disiapkan untuk membantu mikroorganisme berkembang biak dan bertahan hidup."
+                },
+                {
+                    "nama": "alat pertanian",
+                    "deskripsi": "Wadah steril atau alat yang cocok untuk kultur mikroorganisme, misalnya tabung reaksi atau ember steril."
+                },
+                {
+                    "nama": "wadah dan tempat",
+                    "deskripsi": "Wadah steril atau alat yang cocok untuk kultur mikroorganisme, misalnya tabung reaksi atau ember steril."
+                },
+                {
+                    "nama": "alat pencampur",
+                    "deskripsi": "Alat yang dibutuhkan untuk mencampur bahan-bahan secara homogen, seperti pengaduk atau blender, tergantung pada skala produksi."
+                },
+                {
+                    "nama": "pemantauan dan pengendalian kualitas",
+                    "deskripsi": ": Alat atau bahan kimia untuk memantau dan mengendalikan kualitas mikroorganisme yang dihasilkan."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "nama": "Pupuk Kompos",
+            "komponen": [
+                {
+                    "nama": "bahan hijau ( bahan segar )"
+                },
+                {
+                    "nama": "bahan coklat (bahan kering)"
+                },
+                {
+                    "nama": "sisa makananan"
+                },
+                {
+                    "nama": "inokulan kompos"
+                },
+                {
+                    "nama": "Air"
+                },
+                {
+                    "nama": "Tempat pembuatan kompos"
+                },
+                {
+                    "nama": "alat pemrosesan pemeliharaan"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "nama": "Pupuk Humus",
+            "komponen": [
+                {
+                    "nama": "Bahan Organik ( daun daun kering, serasah hutan, sisa sisa tanaman, jerami, sisa sayurann)"
+                },
+                {
+                    "nama": "bakteri pengurai",
+                    "deskripsi": "Banyaknya bakteri pengurai dalam pupuk humus membantu dalam proses dekomposisi. Bakteri ini dapat berasal dari tanah yang sehat atau inokulan komersial yang mengandung bakteri dan mikroorganisme yang bermanfaat."
+                },
+                {
+                    "nama": "air",
+                    "deskripsi": "Untuk menjaga kelembaban bahan organik selama proses dekomposisi."
+                },
+                {
+                    "nama": "wadah atau tempat pembuatan",
+                    "deskripsi": "Tempatkan bahan-bahan tersebut dalam wadah atau tumpukan yang memungkinkan sirkulasi udara yang baik dan dekomposisi yang merata."
+                },
+                {
+                    "nama": "waktu",
+                    "deskripsi": "Proses pembuatan pupuk humus memerlukan waktu yang lebih lama dibandingkan dengan pupuk kompos biasa. Biasanya memerlukan beberapa bulan hingga setahun tergantung pada kondisi lingkungan dan bahan-bahan yang digunakan.."
+                },
+                {
+                    "nama": "alat dan peralatan",
+                    "deskripsi": "Peralatan sederhana seperti cangkul atau garpu untuk membalik tumpukan secara teratur agar dekomposisi berjalan lancar."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "nama": "Pupuk Urea",
+            "komponen": [
+                {
+                    "nama": "kotoran hewan",
+                    "deskripsi": "Kotoran ternak seperti kotoran sapi atau kotoran ayam mengandung nitrogen yang cukup tinggi. Sebelum digunakan, kotoran ini perlu diurai atau difermentasi dengan baik untuk mencegah bau yang kuat dan mengurangi potensi tercemarnya tanaman."
+                },
+                {
+                    "nama": "kacang kacangan dan legum ",
+                    "deskripsi": "Tanaman seperti kacang tanah, kacang hijau, atau kacang polong memiliki bakteri penambat nitrogen di akar mereka. Setelah tanaman ini dipanen, Anda dapat memotongnya dan membiarkannya membusuk di tanah sebagai sumber alami nitrogen."
+                },
+                {
+                    "nama": "rumput rumoutan hijau",
+                    "deskripsi": "Rumput yang dipotong atau gulma hijau adalah sumber potensial untuk pupuk nitrogen. Mereka dapat diurai dalam tumpukan kompos untuk menghasilkan pupuk alami."
+                },
+                {
+                    "nama": "ampas dari pembuatan amaps kopi dan bir",
+                    "deskripsi": "Ampas yang dihasilkan dari proses pembuatan bir atau kopi mengandung sejumlah nitrogen dan dapat dimasukkan ke dalam kompos untuk meningkatkan kandungan nutrisinya."
+                },
+                {
+                    "nama": "sisa sisa tanaman",
+                    "deskripsi": "Sisa-sisa tanaman seperti daun-daun gugur atau sisa-sisa tanaman yang telah dipanen dapat dijadikan bahan untuk membuat kompos yang kaya akan nitrogen."
+                },
+                {
+                    "nama": "kulit telur",
+                    "deskripsi": "Kulit telur yang dihancurkan mengandung kalsium dan sedikit nitrogen, yang dapat dimasukkan ke dalam kompos untuk meningkatkan kualitasnya."
+                },
+                {
+                    "nama": "rumput laut",
+                    "deskripsi": "Rumput laut mengandung nitrogen, kalium, dan banyak mineral lainnya yang baik untuk tanaman. Ini bisa menjadi tambahan yang bagus untuk kompos Anda."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "nama": "pupuk ZA( zwavelzure ammonium )",
+            "komponen": [
+                {
+                    "nama": "amonium nitrat",
+                    "deskripsi": "Ini adalah bahan kimia utama yang mengandung nitrogen dalam bentuk amonium dan nitrat"
+                },
+                {
+                    "nama": "asam sulfat",
+                    "deskripsi": "Asam sulfat digunakan untuk membentuk zwavelzure (sulfat) dalam pupuk ZA."
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "nama": "SP-36 ( Super Phospate )",
+            "komponen": [
+                {
+                    "nama": "Batuan Sulfat",
+                    "deskripsi": "Bahan baku utama untuk pupuk SP-36 adalah batuan fosfat, seperti fosfat alam atau fosfat beku. Batuan fosfat ini mengandung kalsium fosfat dan fosfat lainnya."
+                },
+                {
+                    "nama": "asam sulfat",
+                    "deskripsi": "Asam sulfat digunakan dalam proses kimia untuk mengubah batuan fosfat menjadi bentuk yang lebih mudah larut, yaitu super fosfat"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "nama": "KCI ( Kalium Klorida )",
+            "komponen": [
+                {
+                    "nama": "Kalium",
+                    "deskripsi": "Kalium biasanya diambil dari bijih kalium, yang mengandung kalium oksida (K₂O)."
+                },
+                {
+                    "nama": "Garam klorida (NaCl)",
+                    "deskripsi": "Garam klorida, yang mengandung klorida, digunakan sebagai sumber klorida dalam produksi KCl."
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "nama": "NPK Phonska ( Nitrogen Phospate Kalium)",
+            "komponen": [
+                {
+                    "nama": "Nitrogen (N)",
+                    "deskripsi": "Urea: Sumber utama nitrogen dalam pupuk NPK. Ammonium nitrat: Bahan kimia yang mengandung nitrogen dalam bentuk amonium dan nitrat."
+                },
+                {
+                    "nama": "Fosfor ( F )",
+                    "deskripsi": "Super fosfat (SP-36): Sumber utama fosfor dalam pupuk NPK. Super fosfat (SP-36): Sumber utama fosfor dalam pupuk NPK."
+                },
+                {
+                    "nama": "Kalium ( K )",
+                    "deskripsi": "Kalium klorida (KCl): Sumber utama kalium dalam pupuk NPK. Kalium sulfat: Alternatif lain yang mengandung kalium."
+                },
+                {
+                    "nama": "Bahan Tambahan",
+                    "deskripsi": "Bahan pengisi dan pengikat: Digunakan untuk membentuk granul atau bentuk lain dari pupuk NPK. Bahan pengental: Memastikan pupuk memiliki konsistensi yang baik."
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "nama": "Dolamite ( kapur karbonat )",
+            "komponen": [
+                {
+                    "nama": "Dolamite",
+                    "deskripsi": "Bahan utama untuk pupuk dolomit adalah batuan dolomit, yang merupakan sumber alami kalsium dan magnesium karbonat. Dolomit ini biasanya digali dari tambang dan diolah menjadi bentuk yang dapat digunakan sebagai pupuk.."
+                },
+                {
+                    "nama": "Peralatan penggiling",
+                    "deskripsi": "Untuk menghancurkan dolomit menjadi ukuran partikel yang lebih kecil agar lebih mudah diaplikasikan di ladang."
+                },
+                {
+                    "nama": "peralatan penyebar",
+                    "deskripsi": "Untuk menyebarkan dolomit di atas lahan pertanian dengan merata."
+                },
+                {
+                    "nama": "air",
+                    "deskripsi": "Dalam beberapa kasus, dolomit mungkin perlu dicampur dengan air untuk aplikasi yang lebih baik."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "nama": "ZK ( zwazelvure kali )",
+            "komponen": [
+                {
+                    "nama": "Kalium sulfat (K₂SO₄",
+                    "deskripsi": "Ini adalah bahan utama dalam pupuk ZK. Kalium sulfat dikenal juga dengan nama lain seperti sulfate of potash atau SOP."
+                },
+                {
+                    "nama": "Air",
+                    "deskripsi": "Kadang-kadang diperlukan untuk melarutkan atau mencampurkan kalium sulfat sebelum aplikasi."
+                }
+            ]
+        }
+    ]
+}
